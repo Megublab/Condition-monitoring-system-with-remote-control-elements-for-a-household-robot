@@ -1,0 +1,89 @@
+## Programming fundamental concepts
+
+- Language
+  - Object 👂 heard
+  - this 👂 heard
+  - arrow function 👂 heard
+  - async function 👂 heard
+  - call 👂 heard
+  - bind 👂 heard
+  - apply 👂 heard
+  - instanceof 👂 heard
+  - ...spread 👂 heard
+  - ...rest 👂 heard
+  - typeof 👂 heard
+  - destructuring 👂 heard
+  - generator 👂 heard
+  - iterator 👂 heard
+  - async generator 👂 heard
+  - async iterator 👂 heard
+  - chaining 👂 heard
+  - optional chaining 👂 heard
+  - IIFE 👂 heard
+  - global 👂 heard
+  - globalThis 👂 heard
+  - window 👂 heard
+  - getters and setters 👂 heard
+  - proto 👂 heard
+  - prototype 👂 heard
+  - equality operators 👂 heard
+  - logical operators 👂 heard
+  - bitwise operators 👂 heard
+  - ternary operator 👂 heard
+  - void 🖐️ used
+  - yield 👂 heard
+  - await 🖐️ used
+  - template literal 👂 heard
+  - strict mode 👂 heard
+  - delete 👂 heard
+  - in 👂 heard
+  - super 👂 heard
+  - Symbol 👂 heard
+  - Reflect 👂 heard
+- Statements
+  - if 👂 heard
+  - while 👂 heard
+  - do..while 👂 heard
+  - for 👂 heard
+  - for..in 👂 heard
+  - for..of 👂 heard
+  - for await 👂 heard
+  - throw 👂 heard
+  - break 👂 heard
+  - continue 👂 heard
+  - import 👂 heard
+  - export 👂 heard
+  - label 👂 heard
+  - try..catch 👂 heard
+  - switch 👂 heard
+  - class 👂 heard
+  - new Error 👂 heard
+  - with 👂 heard
+- Functions
+  - function declaration  👂 heard
+  - function expression 👂 heard
+  - return 👂 heard
+  - default parameters 👂 heard
+  - functional object 👂 heard
+- Data structures
+  - Array 👂 heard
+  - mixin 👂 heard
+  - extend 👂 heard
+  - typed arrays 👂 heard
+  - Map 👂 heard
+  - Set 👂 heard
+  - undefined 👂 heard
+  - null 👂 heard
+  - Proxy 👂 heard
+  - weak collections 👂 heard
+  - timers 👂 heard
+  - EventEmitter 👂 heard
+  - RegExp 👂 heard
+  - Date 👂 heard
+  - BigInt 👂 heard
+- Infrastructure
+  - V8  👂 heard
+  - Node.js 🖐️ used
+  - npm 🖐️ used 
+  - prettier 🖐️ used
+  - MDN  👂 heard

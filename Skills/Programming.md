@@ -1,0 +1,106 @@
+## Programming fundamental concepts
+
+- Syntax and concepts
+  - value  🖐️ used 
+  - identifier 🖐️ used  
+  - variable 🖐️ used 
+  - constant 🖐️ used 
+  - scalar 🖐️ used 
+  - literal 🖐️ used 
+  - expression 🖐️ used 
+  - heap 🖐️ used 
+  - function 🖐️ used 
+  - procedure 🖐️ used 
+  - method 🖐️ used 
+  - class 🖐️ used 
+  - prototype 👂 heard
+  - event 👂 heard
+  - type 👂 heard
+  - primitive types 👂 heard
+  - reference types 👂 heard
+  - flag 🖐️ used
+  - lexical scope 🖐️ used
+  - code block 🖐️ used
+  - conditions 🖐️ used
+  - loops 👂 heard
+  - assignment 🖐️ used
+  - regular expression 🖐️ used
+  - interface 🖐️ used
+  - contract 👂 heard
+  - module 🖐️ used
+  - call stack 👂 heard
+- Functions
+  - signature 👂 heard
+  - argument 🖐️ used
+  - parameter 🖐️ used
+  - pure function 👂 heard
+  - lambda expression 🖐️ used
+  - side effects 👂 heard
+  - closure 👂 heard
+  - partial application 👂 heard
+  - curry 👂 heard
+  - higher order 👂 heard
+  - recursion 🖐️ used
+  - callback 🖐️ used
+  - listener 👂 heard
+  - compose 👂 heard
+  - pipe 👂 heard
+  - memoize 👂 heard
+  - wrapper 👂 heard
+  - functor 👂 heard
+  - monad 👂 heard
+  - monoid 👂 heard
+  - generator 👂 heard
+  - coroutine 👂 heard
+- Data structures
+  - array 🖐️ used
+  - structure 🖐️ used
+  - record 🖐️ used
+  - enum 🖐️ used
+  - instance 🖐️ used
+  - object 🖐️ used
+  - class 🖐️ used
+  - collection 🖐️ used
+  - set 🖐️ used
+  - hash table 🖐️ used
+  - linked list 🖐️ used
+  - doubly list 🖐️ used
+  - unrolled list 👂 heard
+  - circular list 👂 heard
+  - queue 🖐️ used
+  - stack 🖐️ used
+  - deque 👂 heard
+  - tree 🖐️ used
+  - graph 🖐️ used
+  - iterator 🖐️ used
+  - mutable state  👂 heard
+  - immutable state 👂 heard
+  - serialization 🖐️ used
+  - string parsing  🖐️ used
+- Process & style
+  - compiler 🖐️ used
+  - transpiler 🖐️ used
+  - linter 👂 heard
+  - polyfill 👂 heard
+  - debugger 🖐️ used
+  - garbage collection 👂 heard
+  - refactoring 👂 heard
+  - code review 👂 heard
+  - antipatterns 👂 heard
+  - paradigm 👂 heard
+  - algorithm 🖐️ used
+  - magic numbers 👂 heard
+  - hardcode 👂 heard
+  - complexity 👂 heard
+  - decomposition 👂 heard
+  - spaghetti 👂 heard
+  - silver bullet 👂 heard
+  - not invented here 👂 heard
+  - dead code 👂 heard
+  - unreachable code 🖐️ used
+  - duplicate code 🖐️ used
+  - exception 🖐️ used
+  - return early 👂 heard
+  - unittest 👂 heard
+  - git 🖐️ used
+  - github 🖐️ used

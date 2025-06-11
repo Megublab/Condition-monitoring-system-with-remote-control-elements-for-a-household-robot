@@ -1,0 +1,95 @@
+## Asynchronous programming
+
+- Theory
+  - Event loop 👂 heard
+  - try..catch 🖐️ used
+  - Non-blocking 👂 heard
+  - Async I/O 🖐️ used
+  - Thread pool 👂 heard
+  - Pattern Reactor 👂 heard
+  - CAS operations 👂 heard
+  - epoll 👂 heard
+  - kqueue 👂 heard
+  - Completion ports 👂 heard
+  - Event ports 👂 heard
+  - libuv 👂 heard
+  - Race conditions 👂 heard
+  - Dead locks 👂 heard
+  - Live locks 👂 heard
+  - Concurrent programming 👂 heard
+  - Parallel programming 👂 heard
+  - Actor Model 👂 heard
+  - Thread 👂 heard
+  - Process 👂 heard
+- Async contracts
+  - Callbacks 🖐️ used
+  - Callback-last-error-first 👂 heard
+  - Thenable 👂 heard
+  - Promise 👂 heard
+  - Async/await 🖐️ used
+  - Future 👂 heard
+  - Deferred 👂 heard
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 👂 heard
+  - Coroutine 👂 heard
+  - Goroutine 👂 heard
+  - Signal 👂 heard
+  - Stream 🖐️ used
+  - Chain of responsibility 👂 heard
+  - Middleware 👂 heard
+  - Locks 👂 heard
+- Async adapters and utils
+  - callbackify 👂 heard
+  - promisify 👂 heard
+  - asyncify 👂 heard
+  - callbacks compose 👂 heard
+  - async compose 👂 heard
+- Async abstractions interfaces
+  - EventEmitter 👂 heard
+  - Observable/Observer 👂 heard
+  - Readable 👂 heard
+  - Writable 👂 heard
+  - Transform 👂 heard
+  - Async Pool 👂 heard
+  - Async Queue 👂 heard
+  - Async Collector 👂 heard
+  - Semaphore 👂 heard
+  - Mutex 👂 heard
+  - Spin Lock 👂 heard
+- JavaScript & Node.js specific
+  - Timers 🖐️ used
+  - setImmediate 👂 heard
+  - nextTick 👂 heard
+  - AbortController 👂 heard
+  - AbortSignal 👂 heard
+  - Promise unhandled rejection 👂 heard
+  - Promise double resolve 👂 heard
+  - child_process 👂 heard
+  - worker_threads 🖐️ used
+  - Atomics 👂 heard
+  - High resolution clock 👂 heard
+  - Callback hell 👂 heard
+  - Promise hell 👂 heard
+  - ref() and unref() 👂 heard
+  - Error handling in async code 👂 heard
+  - Better stack traces with return await 👂 heard
+  - JSON: streaming serialization 👂 heard
+  - promisify 👂 heard
+  - callbackify 👂 heard
+  - AsyncLocalStorage 🖐️ used
+  - AsyncResource 👂 heard
+- Techniques
+  - async.js library 🖐️ used
+  - RxJS library 👂 heard
+  - Async composition 👂 heard
+  - Promise.all 👂 heard
+  - Promise.allSettled 👂 heard
+  - Promise.race 👂 heard
+  - Promise.any 👂 heard
+  - Web Locks API 🖐️ used
+  - IPC 👂 heard
+  - Channel API 👂 heard
+  - Revealing Constructor 👂 heard
+  - Web Locks API 🖐️ used

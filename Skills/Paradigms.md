@@ -1,0 +1,66 @@
+## Multi-paradigm programming
+
+- Theory
+  - Procedural programming 👂 heard 
+  - Imperative programming 👂 heard 
+  - Structured programming 🖐️ used
+  - Non-structured programming 👂 heard
+  - Functional programming 👂 heard
+  - Prototype-based programming 👂 heard 
+  - Object-oriented programming 🖐️ used
+  - Object-based programming 👂 heard 
+  - Generic programming 👂 heard 
+  - Concurrent computing 👂 heard 
+  - Asyncronous programming 👂 heard
+  - Parallel programming 👂 heard 
+  - Reactive programming 👂 heard 
+  - FRP (Functional-reactive) 👂 heard 
+  - Automata-based programming 👂 heard 
+  - Domain-specific languages 🎓 known
+  - Multi-paradigm programming 👂 heard
+  - Metaprogramming 👂 heard
+  - Actor model 👂 heard
+- OOP basics
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🖐️ used
+  - Method 🖐️ used
+  - Async method 🖐️ used
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
+  - Field declarations 🖐️ used
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🖐️ used
+  - Abstract class 🖐️ used
+  - Interface 🎓 known
+  - Encapsulation 🎓 known
+  - Hidden class 🎓 known
+  - Object form 🎓 known
+  - instance 👂 heard 
+  - Introspection 👂 heard 
+  - Reflection 👂 heard 
+- Patterns
+  - Singleton 👂 heard 
+  - Factory Method 👂 heard 
+  - Abstract Factory 👂 heard 
+  - Adapter 🎓 known
+  - Observer 👂 heard 
+  - Strategy 👂 heard
+  - Facade 👂 heard 
+  - Proxy 👂 heard 
+  - Chain of Responsibility 👂 heard 
+  - Command 🖐️ used
+  - Iterator 🖐️ used
+  - State 👂 heard 
+  - Bridge 👂 heard 
+  - Builder 🎓 known
+  - Prototype 🎓 known
+  - Composite 👂 heard 
+  - Decorator 👂 heard 
+  - Flyweight 👂 heard 
+  - Mediator 👂 heard 
+  - Memento 👂 heard 
+  - Template Method 👂 heard 
+  - Visitor 👂 heard
