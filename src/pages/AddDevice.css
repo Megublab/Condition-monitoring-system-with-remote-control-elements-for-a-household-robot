@@ -1,0 +1,75 @@
+.add-device-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: rgb(65,65,65);
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.btn-search-devices,
+.btn-search-again {
+  padding: 10px 20px;
+  font-weight: 600;
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  transition: background-color 0.2s ease;
+}
+
+.btn-search-devices:hover,
+.btn-search-again:hover {
+  background-color: #0056b3;
+}
+
+.device-list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.device-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 8px;
+  border-bottom: 1px solid #eee;
+}
+
+.device-info div {
+  margin: 2px 0;
+  text-align: left;
+}
+
+.device-list-item button {
+  padding: 6px 14px;
+  border: none;
+  background-color: #28a745;
+  color: white;
+  font-weight: 600;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.device-list-item button:disabled {
+  background-color: #6c757d;
+  cursor: not-allowed;
+}
+
+.device-list-item button:hover:not(:disabled) {
+  background-color: #1e7e34;
+}
+
+.error-message {
+  color: #d9534f;
+  margin-bottom: 12px;
+}
