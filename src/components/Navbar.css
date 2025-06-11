@@ -1,0 +1,30 @@
+.navbar {
+  top: 0;
+  left: 4%;
+  width: 90%;
+  position: fixed;
+  display: flex;
+  justify-content: center; /* Центруємо контент по горизонталі */
+  gap: 20px; /* Відстань між кнопками */
+  padding: 20px;
+  background-color: rgb(65, 65, 65);
+  border-radius: 10px;
+  border: 1px solid rgb(255, 255, 255); 
+}
+
+
+.navbutton {
+  flex: 1 1 auto; /* Дозволяє тягнутись */
+  max-width: 200px; /* Обмежує ширину кнопки */
+  background-color: rgb(145, 21, 21);
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.navbutton:hover {
+  background-color: rgb(255, 0, 0);
+}
+
